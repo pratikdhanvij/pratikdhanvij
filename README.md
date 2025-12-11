@@ -26,7 +26,7 @@ Passionate about clean architecture, reusable components, secure APIs, and deliv
 
 ## 💼 Professional Summary
 
-Full Stack Developer at **Angular Minds, Pune**, with 3+ years of experience building production-ready applications.  
+Full Stack Web Developer with 3+ years of experience building production-ready applications.  
 Contributed to scalable frontends, secure backend services, and end-to-end feature development across multiple domains.
 
 ---
